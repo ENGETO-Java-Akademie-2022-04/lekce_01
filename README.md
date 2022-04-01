@@ -6,7 +6,7 @@
 
 ## Co bychom měli mít hotové
 
-Před první hodinou bys měl(a) mít naistalované základní nástoje, které budeme na tomto kurzu používat. Návod, jak na to, je [zde](https://github.com/ENGETO-Java-Akademie-2022-01/intro/blob/main/priprava.md).
+Před první hodinou bys měl(a) mít naistalované základní nástoje, které budeme na tomto kurzu používat. Návod, jak na to, je [zde](https://github.com/ENGETO-Java-Akademie-2022-04/intro/blob/main/priprava.md).
 
 Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to můžeme probrat na konzultaci.
 
@@ -18,7 +18,7 @@ Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to m
 ## Co nás čeká
 
  - Úvod
-    - [Jak probíhá Java akademie](https://github.com/ENGETO-Java-Akademie-2022-01/intro/blob/main/o-akademii.md)
+    - [Jak probíhá Java akademie](https://github.com/ENGETO-Java-Akademie-2022-04/intro/blob/main/o-akademii.md)
 
  - Jdeme programovat!
    - [První program: Hello world!](prvni-projekt.md)
@@ -42,7 +42,7 @@ Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to m
 
 ## Úkoly
 
- - [Dokončení instalace nástrojů (pokud ještě nemáš)](https://github.com/ENGETO-Java-Akademie-2022-01/intro/blob/main/priprava.md)
+ - [Dokončení instalace nástrojů (pokud ještě nemáš)](https://github.com/ENGETO-Java-Akademie-2022-04/intro/blob/main/priprava.md)
 
  - [Úkol: Připrav proměnné](ukol-vytvor-promenne.md)
  - [Úkol: Oprav chybný kód](ukol-oprav-kod/README.md)
@@ -50,4 +50,4 @@ Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to m
 
 ---
 
-[Zpět na přehled akademie](https://github.com/ENGETO-Java-Akademie-2022-01/intro)
+[Zpět na přehled akademie](https://github.com/ENGETO-Java-Akademie-2022-04/intro)
