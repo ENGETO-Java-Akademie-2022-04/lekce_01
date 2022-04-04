@@ -2,13 +2,7 @@
   <img src="https://engeto.cz/wp-content/uploads/2019/01/engeto-square.png" width="200" height="200">
 </p>
 
-# Java - 1. lekce
-
-## Co bychom měli mít hotové
-
-Před první hodinou bys měl(a) mít naistalované základní nástoje, které budeme na tomto kurzu používat. Návod, jak na to, je [zde](https://github.com/ENGETO-Java-Akademie-2022-04/intro/blob/main/priprava.md).
-
-Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to můžeme probrat na konzultaci.
+# Java &mdash; 1. lekce
 
 ## Cíl lekce
 1. Vytvořit si první projekt a&nbsp;spustit ho.
